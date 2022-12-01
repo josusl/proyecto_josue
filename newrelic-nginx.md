@@ -1,6 +1,6 @@
 ~~~
 ubuntu@server-nginx:~$ sudo su
-root@server-nginx:/home/ubuntu# curl -Ls https://download.newrelic.com/install/newrelic-cli/scripts/install.sh | bash && sudo NEW_RELIC_API_KEY=NRAK-TX5IIFY0PZ31G10SZNZPO61LVWW NEW_RELIC_ACCOUNT_ID=3643161 NEW_RELIC_REGION=EU /usr/local/bin/newrelic install
+root@server-nginx:/home/ubuntu# curl -Ls https://download.newrelic.com/install/newrelic-cli/scripts/install.sh | bash && sudo NEW_RELIC_API_KEY=NRAK-"numeroidentificadorprivado" NEW_RELIC_ACCOUNT_ID="miiddecuenta" NEW_RELIC_REGION=EU /usr/local/bin/newrelic install
 Starting installation.
 Installing New Relic CLI v0.60.2
 Installing to /usr/local/bin

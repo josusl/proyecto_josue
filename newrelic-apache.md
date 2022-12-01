@@ -1,7 +1,7 @@
 ~~~
 Last login: Thu Nov 17 16:49:37 2022 from 66.81.173.102
 ubuntu@server-apache:~$ sudo su
-root@server-apache:/home/ubuntu# curl -Ls https://download.newrelic.com/install/newrelic-cli/scripts/install.sh | bash && sudo NEW_RELIC_API_KEY=NRAK-TX5IIFY0PZ31G10SZNZPO61LVWW NEW_RELIC_ACCOUNT_ID=3643161 NEW_RELIC_REGION=EU /usr/local/bin/newrelic install
+root@server-apache:/home/ubuntu# curl -Ls https://download.newrelic.com/install/newrelic-cli/scripts/install.sh | bash && sudo NEW_RELIC_API_KEY=NRAK-""Numero de cuenta"" NEW_RELIC_ACCOUNT_ID="M_numeroID" NEW_RELIC_REGION=EU /usr/local/bin/newrelic install
 Starting installation.
 Installing New Relic CLI v0.60.2
 Installing to /usr/local/bin
